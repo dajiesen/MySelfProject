@@ -1,1 +1,6 @@
-jdfjfasfkasdkllsssToolbelt
+<?php
+var_dump(phpinfo());
+
+
+
+?>
