@@ -1,6 +1,6 @@
 <?php
 var_dump(phpinfo());
-
+太神奇了  git checkout --  文件名  就可以撤销新添加进去的东西
 
 
 ?>
