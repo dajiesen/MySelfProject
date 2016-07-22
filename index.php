@@ -1,7 +1,7 @@
 <?php
 
 phpinfo()
-$str = '你啊啊啊啊啊什么';
+$str = '哈哈哈哈哈哈哈哈';
 echo $str;
 
 
