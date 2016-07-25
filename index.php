@@ -12,7 +12,7 @@ echo "测试冲出1,jason分支";
 >>>>>>> jason
 
 
-
+echo "hahah";
 
 echo "测试冲突，jason1";
 echo 'dashabi';
